@@ -12,13 +12,19 @@ Included in this repository are the LTspice files to simulate this circuit, as w
 You will need LTspice in order to open and edit the files.
 You can download it from Analog.
 
-### Included Files
+You will also need the Arduino IDE in order to program an Arduino with the basic code.
+You can download it from Arduino[https://www.arduino.cc/en/Main/Software].
 
-## Schematics
-Foo
+## Included Files
+.asc is the schematic file
+.asy is the symbol file
+### Schematics and Symbols
+* FeedbackControl - Feedback Loop based on encoder counts
+* MotorDriver - BJTs that can open or close to provide more or less power to motor
+* MotorModel - Model, given to us by Instructor, of the motor on our robot
+* SpeedControl - Complete model of the hardware feedback for a single motor
 
-## Symbols
-Bar
+### Images
 
 ## Authors
 
