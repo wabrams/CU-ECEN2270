@@ -13,18 +13,20 @@ You will need LTspice in order to open and edit the files.
 You can download it from Analog.
 
 You will also need the Arduino IDE in order to program an Arduino with the basic code.
-You can download it from Arduino[https://www.arduino.cc/en/Main/Software].
+You can download it from [Arduino](https://www.arduino.cc/en/Main/Software).
 
 ## Included Files
 .asc is the schematic file
 .asy is the symbol file
 ### Schematics and Symbols
 * FeedbackControl - Feedback Loop based on encoder counts
+[[https://github.com/wabrams/CU-ECEN2270/blob/master/FeedbackControl.png|alt=FeedbackControl.png]]
 * MotorDriver - BJTs that can open or close to provide more or less power to motor
+[[https://github.com/wabrams/CU-ECEN2270/blob/master/MotorDriver.png|alt=MotorDriver.png]]
 * MotorModel - Model, given to us by Instructor, of the motor on our robot
+[[https://github.com/wabrams/CU-ECEN2270/blob/master/MotorModel.png|alt=MotorModel.png]]
 * SpeedControl - Complete model of the hardware feedback for a single motor
-
-### Images
+[[https://github.com/wabrams/CU-ECEN2270/blob/master/SpeedControl.png|alt=SpeedControl.png]]
 
 ## Authors
 
